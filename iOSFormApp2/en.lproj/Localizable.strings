@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  iOSFormApp2
+
+  Created by CANCC on 6/28/18.
+  Copyright © 2018 CANCC. All rights reserved.
+*/
+"Name is not entered" = "名前が入力されていません";
+"E-mail address is not entered" = "メールアドレスが入力されていません";
+"Inquiry title has not been entered" = "問い合わせタイトル\nが入力されていません";
+"Inquiry content is not entered" = "問い合わせ内容が入力されていません";
+"Age has not been entered" = "年齢が入力されていません";
+"State or province is not entered" = "都道府県が入力されていません";
+"I failed to accept inquiries" = "問い合わせの受付に失敗したしました";
+"Inquiries accepted" = "問い合わせを受け付けました";
+"All search results" = "全件検索結果：%lu件";
+"Data acquisition failed" = "データの取得に失敗しました";
+"please fill in the value" = "値を入力してください";
+"Condition Search Result" = "条件検索結果：%lu件";
+"Conditional search (range designation) result" = "条件検索(範囲指定)結果：%lu件";
+"Value is invalid" = "値が不正です";
+
