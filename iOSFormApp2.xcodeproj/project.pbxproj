@@ -205,7 +205,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0920;
-				ORGANIZATIONNAME = CANCC;
+				ORGANIZATIONNAME = Mbaas;
 				TargetAttributes = {
 					1760AA4B20D25C0C00E3AFBC = {
 						CreatedOnToolsVersion = 9.2;
@@ -466,7 +466,7 @@
 				INFOPLIST_FILE = iOSFormApp2/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.cancc.iOSFormApp2;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nifty.cloud.mb.iOSFormApp2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
